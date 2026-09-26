@@ -1,5 +1,10 @@
 ## Hi there 👋
+My name is Muen. I'm studying for a master's degree in Computer Science at Georgia Tech and working full-time as a data scientist. Before this, studied Landscape Architecture at Harvard.
 
+I'm very interested in complex systems in climate, environment, and energy, where important system states are often difficult to observe, infer, or model.
+
+### A little outside of work
+In my free time, I'm also a postcrosser. I enjoy learning about different places around the world through postcards. I built [this web app](https://postfolio-lac.vercel.app/login) as a personal material archive for my postcards collection.
 <!--
 **zmuen/zmuen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
