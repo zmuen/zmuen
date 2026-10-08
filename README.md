@@ -1,5 +1,5 @@
 ## Hi there 👋
-My name is Muen. I'm studying for a master's degree in Computer Science at Georgia Tech and working full-time as a data scientist. Before this, studied Landscape Architecture at Harvard.
+My name is Muen. I'm studying for a master's degree in Computer Science at Georgia Tech and working full-time as a data scientist. Before this, I studied Landscape Architecture at Harvard.
 
 I'm very interested in complex systems in climate, environment, and energy, where important system states are often difficult to observe, infer, or model.
 
